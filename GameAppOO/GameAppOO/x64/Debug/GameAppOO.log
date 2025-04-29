@@ -1,0 +1,4 @@
+﻿  music.cpp
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\2n Trim\Visual\GameAppOO\Music.h(4,10): error C1083: Cannot open include file: 'SFML/Audio.hpp': No such file or directory
+  (compiling source file 'music.cpp')
+  
