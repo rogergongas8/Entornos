@@ -1,0 +1,17 @@
+﻿  calculadora.cpp
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(12,16): error C2446: ==': no hay conversión de 'const char [2]' en 'int'
+      D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(12,19):
+      No existe un contexto en el que sea posible realizar esta conversión
+  
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(17,16): error C2446: ==': no hay conversión de 'const char [2]' en 'int'
+      D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(17,19):
+      No existe un contexto en el que sea posible realizar esta conversión
+  
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(22,16): error C2446: ==': no hay conversión de 'const char [2]' en 'int'
+      D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(22,19):
+      No existe un contexto en el que sea posible realizar esta conversión
+  
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(26,18): error C2059: error de sintaxis: '/'
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(12,23): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(17,23): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+D:\OneDrive - Centre d'Estudis Monlau\0487 Entorns de Desenvolupament\Visual Studio\calculadora\calculadora\calculadora.cpp(22,23): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
